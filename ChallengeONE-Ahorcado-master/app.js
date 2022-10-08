@@ -44,16 +44,16 @@ function mostrarSection(section) {
 }
 
 let arrayPalabras = [
-  "PERRO",
-  "TERRAZA",
-  "PAGINA",
-  "LETRAS",
-  "HOGAR",
-  "PERSONA",
-  "COMER",
-  "ARBOL",
   "FUTBOL",
-  "VIAJE",
+  "CASA",
+  "GALLINA",
+  "MAYUSCULA",
+  "CIUDAD",
+  "ESCUELA",
+  "CENA",
+  "VEGETAL",
+  "TAMBOR",
+  "DEPORTE",
 ];
 
 const contenedorPalabra = document.querySelector("#palabraSecreta");
